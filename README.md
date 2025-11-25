@@ -19,7 +19,12 @@ http://dockerhostip:9120
 ![komodo-login](images/komodo-dashboard.png)
 
 ---
+![komodo-login](images/komodo-resources.png)
 
+---
+![komodo-login](images/komodo-containers.png)
+
+---
 
 #### Reference:
 - [komodo WebSite](https://komo.do/)
