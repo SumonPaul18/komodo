@@ -11,7 +11,15 @@ Komodo is a web app to provide structure for managing your servers, builds, depl
 Broswing Portainer Dashboard:<br>
 http://dockerhostip:9120
 
+---
+
 ![komodo-login](images/komodo-login.png)
+
+---
+![komodo-login](images/komodo-dashboard.png)
+
+---
+
 
 #### Reference:
 - [komodo WebSite](https://komo.do/)
